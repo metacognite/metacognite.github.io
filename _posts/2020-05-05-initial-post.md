@@ -17,5 +17,5 @@ I'll be undirected for the most part, but expect to hear more about:
 - things I'm building, likely software
 - random management musings (day job > technical ppl manager)
 - hypotheses on the future
-- health & medicine (topics I care deeply about)s
+- health & medicine >> survival
 
