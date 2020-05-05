@@ -19,3 +19,5 @@ I'll be undirected for the most part, but expect to hear more about:
 - hypotheses on the future
 - health & medicine >> survival
 
+I won't spend much time on these posts. Likely 15 mins altogether (my default timebox on Be Focused Pro). Also, I may go back and edit posts.
+
