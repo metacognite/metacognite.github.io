@@ -1,6 +1,6 @@
-I---
+---
 layout: post
-title: "Training the Model <> Deductive vs Inductive Reasoning"
+title: "Training the Model & Deductive vs Inductive Reasoning"
 keywords: "thinking, mental models"
 ---
 
